@@ -1,1 +1,2 @@
 # health-care-project
+This project is a Healthcare Services List application built with Svelte. It allows users to manage a list of healthcare services, including adding new services, updating existing ones, and deleting them. The app uses Svelte's built-in reactivity for state management and includes simple input validation to ensure all fields are filled before submitting a new service. Basic CSS styling is applied for a clean and user-friendly interface. The app can be deployed to platforms like Vercel or Netlify for easy access.
